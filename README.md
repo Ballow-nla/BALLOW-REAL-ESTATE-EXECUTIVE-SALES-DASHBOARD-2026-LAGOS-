@@ -3,7 +3,7 @@
 A fully dynamic, relational executive sales dashboard built from scratch in Microsoft Excel to analyze regional revenue drivers, agent performance metrics, and monthly sales trends for a Lagos real estate portfolio.
 
 ## 📊 Dashboard Preview
-![Dashboard Preview](dashboard_preview.jpeg)
+![Dashboard Preview](Dashboard_Preview.jpeg)
 
 ## 🛠️ Tech Stack & Skills Demonstrated
 - **Data Modeling:** Built a relational Power Pivot data model linking `PropertiesTable` and `AgentsTable` via a foreign key (`Agent_ID`).
